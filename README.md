@@ -1,6 +1,6 @@
 # Portofolio-revisi-web
 Selamat datang di website portofolio saya!  
-Website ini saya buat untuk menampilkan profil pribadi, dan medsos
+Website ini saya buat untuk menampilkan profil pribadi, dan hasil karya saya
 
 ## Fitur Utama
 - Halaman pembuka dengan mengeklik
